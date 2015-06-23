@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ZstuServer"
+  id="myeclipse.1429009781797"
+  context-root="/ZstuServer"
+  j2ee-spec="5.0"
+  archive="ZstuServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
